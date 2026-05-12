@@ -1,4 +1,4 @@
-\# Control Systems Lab
+# Control Systems Lab
 
 
 
@@ -6,23 +6,23 @@ Personal laboratory repository for control systems experiments, simulations and 
 
 
 
-\## Topics
+## Topics
 
 
 
-\- PID control
+- PID control
 
-\- LQI control
+- LQI control
 
-\- State-space modelling
+- State-space modelling
 
-\- System identification
+- System identification
 
-\- MATLAB and Simulink
+- MATLAB and Simulink
 
 
 
-\## Status
+## Status
 
 
 
