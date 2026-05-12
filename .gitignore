@@ -1,0 +1,38 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.slxc
+*.autosave
+*.mex*
+codegen/
+
+# Simulink generated folders
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
